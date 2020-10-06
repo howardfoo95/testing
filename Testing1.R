@@ -1,0 +1,2 @@
+print("hi")
+Print("bye")
